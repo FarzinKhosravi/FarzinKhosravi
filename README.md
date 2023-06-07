@@ -20,7 +20,6 @@
 ---
  <h1 font-weight="bold">
   Where to Find Me
- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
  </h1>
   
   
