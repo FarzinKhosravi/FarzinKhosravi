@@ -28,6 +28,9 @@
   
 
 
-<p><a href="https://github.com/Farzin01F" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://t.me/Farzin_KHI" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="mailto:khosravii.farzin@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<p><a href="https://github.com/Farzin01F" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://t.me/Farzin_KHI" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="mailto:khosravii.farzin@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/farzin-khosravi/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
+</a>
 </p>
 
